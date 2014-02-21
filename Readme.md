@@ -1,0 +1,1 @@
+Usage is ./prime_table n 

@@ -1,4 +1,5 @@
 #! /usr/bin/env ruby
+# Usage is ./prime_table n
 
 class PrimeTable   
   @@total_numbers = 10000
